@@ -1,0 +1,18 @@
+{
+  "currency": "USD",
+  "snapshot": "2026-01-15",
+  "sales": [
+    {
+      "product": "Laptop",
+      "revenue": 1200
+    },
+    {
+      "product": "Phone",
+      "revenue": 800
+    },
+    {
+      "product": "Cable",
+      "revenue": null
+    }
+  ]
+}

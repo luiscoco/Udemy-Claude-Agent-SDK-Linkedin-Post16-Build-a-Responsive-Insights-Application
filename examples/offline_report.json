@@ -1,0 +1,17 @@
+{
+  "lesson": 15,
+  "application": "Live Sales Snapshot",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "evidence": {
+      "snapshot": "2026-01-15",
+      "currency": "USD",
+      "known_total": 2000,
+      "missing": 1
+    },
+    "explanation": "Known revenue is 2000 USD; 1 value is missing.",
+    "followup": "The known total is incomplete, not the final total."
+  },
+  "measured_cost_usd": null
+}

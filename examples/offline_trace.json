@@ -1,0 +1,38 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "stream_summary",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "stream_summary",
+    "elapsed_seconds": 0.00026
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_started",
+    "stage": "turn_1",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "turn_1",
+    "elapsed_seconds": 2e-05
+  },
+  {
+    "sequence": 5,
+    "kind": "stage_started",
+    "stage": "turn_2",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 6,
+    "kind": "stage_finished",
+    "stage": "turn_2",
+    "elapsed_seconds": 1e-05
+  }
+]

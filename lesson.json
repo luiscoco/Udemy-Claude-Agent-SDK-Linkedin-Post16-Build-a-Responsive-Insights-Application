@@ -1,0 +1,15 @@
+{
+  "lesson": 15,
+  "title": "Build a Responsive Insights Application",
+  "application": "Live Sales Snapshot",
+  "purpose": "Validate a sales snapshot locally, stream an explanation, and ask a contextual follow-up using one client.",
+  "exercise": "Set the Cable revenue to 250. Compare the deterministic total and the explanation; then inject --fail-stage stream_summary.",
+  "source_topics": [
+    "01-Design-a-Responsive-Insights-App.png",
+    "02-Prepare-Evidence-Before-Analysis.png",
+    "03-Stream-Text-from-query.png",
+    "04-Keep-Follow-Up-Questions-in-Context.png",
+    "05-Build-a-Clear-Live-Display.png",
+    "06-Finish-Validate-and-Recover.png"
+  ]
+}
